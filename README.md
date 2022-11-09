@@ -1,1 +1,12 @@
-# nuwe-Jump2Digital-2022---Data-Science
+# background
+***
+# problem
+***
+# results
+***
+# analysis
+***
+# solution
+***
+# license
+***
