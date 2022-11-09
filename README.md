@@ -9,11 +9,13 @@ The objective is to carry out a predictive model that allows knowing the type of
 0 corresponds to Good air quality  
 1 corresponds to Moderate air quality  
 2 corresponds to Dangerous air quality  
-Multiclass classification problem.
+We face a multiclass classification problem.
 ***
 ## analysis
+We have 8 features, all numerical, corresponding to the parameters measured by the different sensors. The training dataset has 2100 records and the test dataset 900. The distribution between the 3 labels is balanced: 33% of the records for each label. The features are standardized. We normalize them too to put them all on the same scale from -1 to 1. 3 features have almost no correlation with the target: feature7, feature8, feature4. The feature importance graph shows us the same thing. The decision is made not to remove them because 2 percentage points of f1_score are lost by removing them. 
 ***
 ## solution
+
 ***
 ## results
 ***
