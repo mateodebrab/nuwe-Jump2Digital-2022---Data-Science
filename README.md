@@ -24,4 +24,17 @@ The result for the final f1_score for the ramdom forest model is 91.54%.
 The model is used to predict the label for the test dataset. The result is in the csv-file [predictions.csv](/predictions.csv) and the json-file [predictions.json](/predictions.json)
 ***
 ## license
+To resolve the problem, i used the technical package:
+> - pycharm
+> - python
+> - pandas
+> - scikit-learn
+> - matplotlib
+> - seaborn  
+
+I hope you enjoy it as much as I enjoyed solving it.  
+Thank you  
+Mathieu Debrabander  
+mathieudebrabander@hotmail.com  
+https://www.linkedin.com/in/mathieu-debrabander-9b780528/
 ***
